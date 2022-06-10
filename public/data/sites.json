@@ -1,0 +1,1182 @@
+[
+  {
+    "Site Name": "Arkansas Nuclear One",
+    "Latitude": "35.3105557",
+    "Longitude": "-93.2308441",
+    "Site Code": "ano",
+    "Pic File": "ano",
+    "State": "AR",
+    "City": "London",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/ano1.html",
+        "powerName": "Arkansas Nuclear 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/ano2.html",
+        "powerName": "Arkansas Nuclear 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Beaver Valley Station",
+    "Latitude": "40.6225606",
+    "Longitude": "-80.4314017",
+    "Site Code": "bv",
+    "Pic File": "bv",
+    "State": "PA",
+    "City": "Shippingport",
+    "Region": "1",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/bv1.html",
+        "powerName": "Beaver Valley 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/bv2.html",
+        "powerName": "Beaver Valley 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Braidwood Station",
+    "Latitude": "41.042834",
+    "Longitude": "-88.031206",
+    "Site Code": "brai",
+    "Pic File": "brai",
+    "State": "IL",
+    "City": "Braceville",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/brai1.html",
+        "powerName": "Braidwood 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/brai2.html",
+        "powerName": "Braidwood 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Browns Ferry Nuclear Power Plant",
+    "Latitude": "34.7041925",
+    "Longitude": "-87.1206431",
+    "Site Code": "bf",
+    "Pic File": "bf",
+    "State": "AL",
+    "City": "Athens",
+    "Region": "2",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/bf1.html",
+        "powerName": "Browns Ferry 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/bf2.html",
+        "powerName": "Browns Ferry 2"
+      },
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/bf3.html",
+        "powerName": "Browns Ferry 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Brunswick Steam Electric Plant",
+    "Latitude": "33.9584139",
+    "Longitude": "-78.0119901",
+    "Site Code": "bru",
+    "Pic File": "bru",
+    "State": "NC",
+    "City": "Southport",
+    "Region": "2",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/bru1.html",
+        "powerName": "Brunswick 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/bru2.html",
+        "powerName": "Brunswick 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Byron Station",
+    "Latitude": "42.0767423",
+    "Longitude": "-89.2833434",
+    "Site Code": "byro",
+    "Pic File": "byro",
+    "State": "IL",
+    "City": "Byron",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/byro1.html",
+        "powerName": "Byron 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/byro2.html",
+        "powerName": "Byron 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Callaway Plant",
+    "Latitude": "38.760764",
+    "Longitude": "-91.7839532",
+    "Site Code": "call",
+    "Pic File": "call",
+    "State": "MO",
+    "City": "Fulton",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/call.html",
+        "powerName": "Callaway"
+      }
+    ]
+  },
+  {
+    "Site Name": "Calvert Cliffs Nuclear Power Plant",
+    "Latitude": "38.4342693",
+    "Longitude": "-76.4443924",
+    "Site Code": "calv",
+    "Pic File": "calv",
+    "State": "MD",
+    "City": "Lusby",
+    "Region": "1",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/calv1.html",
+        "powerName": "Calvert Cliffs 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/calv2.html",
+        "powerName": "Calvert Cliffs 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Catawba Nuclear Station",
+    "Latitude": "34.9516273",
+    "Longitude": "-81.0715752",
+    "Site Code": "cat",
+    "Pic File": "cat",
+    "State": "SC",
+    "City": "York",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/cat1.html",
+        "powerName": "Catawba 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/cat2.html",
+        "powerName": "Catawba 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Clinton Power Station",
+    "Latitude": "40.1728474",
+    "Longitude": "-88.835385",
+    "Site Code": "clin",
+    "Pic File": "clin",
+    "State": "IL",
+    "City": "Clinton",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/clin.html",
+        "powerName": "Clinton"
+      }
+    ]
+  },
+  {
+    "Site Name": "Columbia Generating Station",
+    "Latitude": "46.4716611",
+    "Longitude": "-119.3393388",
+    "Site Code": "wnp",
+    "Pic File": "wnp",
+    "State": "WA",
+    "City": "Richland",
+    "Region": "4",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/wash2.html",
+        "powerName": "Columbia Generating Station"
+      }
+    ]
+  },
+  {
+    "Site Name": "Comanche Peak Nuclear Power Plant",
+    "Latitude": "32.2983968",
+    "Longitude": "-97.7875149",
+    "Site Code": "cp",
+    "Pic File": "cp",
+    "State": "TX",
+    "City": "Glen Rose",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/cp1.html",
+        "powerName": "Comanche Peak 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/cp2.html",
+        "powerName": "Comanche Peak 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Cooper Nuclear Station ",
+    "Latitude": "40.3622369",
+    "Longitude": "-95.6434596",
+    "Site Code": "cns",
+    "Pic File": "cns",
+    "State": "NE",
+    "City": "Brownville",
+    "Region": "4",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/cns.html",
+        "powerName": "Cooper"
+      }
+    ]
+  },
+  {
+    "Site Name": "Davis-Besse Nuclear Power Station",
+    "Latitude": "41.4554769",
+    "Longitude": "-83.0917012",
+    "Site Code": "davi",
+    "Pic File": "davi",
+    "State": "OH",
+    "City": "Oak Harbor",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/davi.html",
+        "powerName": "Davis-Besse"
+      }
+    ]
+  },
+  {
+    "Site Name": "Diablo Canyon Nuclear Power Plant",
+    "Latitude": "35.2116979",
+    "Longitude": "-120.8572314",
+    "Site Code": "diab",
+    "Pic File": "diab",
+    "State": "CA",
+    "City": "Avila Beach",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/diab1.html",
+        "powerName": "Diablo Canyon 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/diab2.html",
+        "powerName": "Diablo Canyon 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Donald C. Cook Nuclear Plant",
+    "Latitude": "41.8756074",
+    "Longitude": "-86.5673239",
+    "Site Code": "cook",
+    "Pic File": "cook",
+    "State": "MI",
+    "City": "Bridgman",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/cook1.html",
+        "powerName": "D.C. Cook 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/cook2.html",
+        "powerName": "D.C. Cook 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Dresden Nuclear Power Station",
+    "Latitude": "41.5895637",
+    "Longitude": "-88.272255",
+    "Site Code": "dres",
+    "Pic File": "dres",
+    "State": "IL",
+    "City": "Morris",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/dres2.html",
+        "powerName": "Dresden 2"
+      },
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/dres3.html",
+        "powerName": "Dresden 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Edwin I. Hatch Nuclear Plant",
+    "Latitude": "31.934437",
+    "Longitude": "-82.34636",
+    "Site Code": "hat",
+    "Pic File": "hat",
+    "State": "GA",
+    "City": "Baxley",
+    "Region": "2",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/hat1.html",
+        "powerName": "Hatch 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/hat2.html",
+        "powerName": "Hatch 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Fermi",
+    "Latitude": "42.1229563",
+    "Longitude": "-83.2599886",
+    "Site Code": "ferm",
+    "Pic File": "ferm",
+    "State": "MI",
+    "City": "Newport",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/ferm2.html",
+        "powerName": "Fermi 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Grand Gulf Nuclear Station",
+    "Latitude": "32.0092387",
+    "Longitude": "-91.0491524",
+    "Site Code": "gg",
+    "Pic File": "gg",
+    "State": "MS",
+    "City": "Port Gibson",
+    "Region": "4",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/gg1.html",
+        "powerName": "Grand Gulf 1"
+      }
+    ]
+  },
+  {
+    "Site Name": "H. B. Robinson Steam Electric Plant",
+    "Latitude": "34.4011146",
+    "Longitude": "-80.161527",
+    "Site Code": "rob",
+    "Pic File": "rob",
+    "State": "SC",
+    "City": "Hartsville",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/rob2.html",
+        "powerName": "Robinson 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Hope Creek Generating Station",
+    "Latitude": "39.4661942",
+    "Longitude": "-75.5382519",
+    "Site Code": "hope",
+    "Pic File": "hope",
+    "State": "NJ",
+    "City": "Hancocks Bridge",
+    "Region": "1",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/hope.html",
+        "powerName": "Hope Creek 1"
+      }
+    ]
+  },
+  {
+    "Site Name": "James A. FitzPatrick Nuclear Power Plant",
+    "Latitude": "43.523333",
+    "Longitude": "-76.398333",
+    "Site Code": "fitz",
+    "Pic File": "fitz",
+    "State": "NY",
+    "City": "Scriba",
+    "Region": "1",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/fitz.html",
+        "powerName": "FitzPatrick"
+      }
+    ]
+  },
+  {
+    "Site Name": "Joseph M. Farley Nuclear Plant",
+    "Latitude": "31.2204718",
+    "Longitude": "-85.1178137",
+    "Site Code": "far",
+    "Pic File": "far",
+    "State": "AL",
+    "City": "Columbia",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/far1.html",
+        "powerName": "Farley 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/far2.html",
+        "powerName": "Farley 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "LaSalle County Station",
+    "Latitude": "41.1457423",
+    "Longitude": "-88.8713889",
+    "Site Code": "lasa",
+    "Pic File": "lasa",
+    "State": "IL",
+    "City": "Marseilles",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/lasa1.html",
+        "powerName": "LaSalle 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/lasa2.html",
+        "powerName": "LaSalle 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Limerick Generating Station",
+    "Latitude": "40.22647",
+    "Longitude": "-75.5919939",
+    "Site Code": "lim",
+    "Pic File": "lim",
+    "State": "PA",
+    "City": "Limerick",
+    "Region": "1",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/lim1.html",
+        "powerName": "Limerick 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/lim2.html",
+        "powerName": "Limerick 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "McGuire Nuclear Station",
+    "Latitude": "35.6334812",
+    "Longitude": "-80.950606",
+    "Site Code": "mcg",
+    "Pic File": "mcg",
+    "State": "NC",
+    "City": "Huntersville",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/mcg1.html",
+        "powerName": "McGuire 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/mcg2.html",
+        "powerName": "McGuire 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Millstone Power Station",
+    "Latitude": "41.312554",
+    "Longitude": "-72.1723517",
+    "Site Code": "mill",
+    "Pic File": "mill",
+    "State": "CT",
+    "City": "Waterford",
+    "Region": "1",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/mill2.html",
+        "powerName": "Millstone 2"
+      },
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/mill3.html",
+        "powerName": "Millstone 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Monticello Nuclear Generating Plant",
+    "Latitude": "45.332287",
+    "Longitude": "-93.849729",
+    "Site Code": "mont",
+    "Pic File": "mont",
+    "State": "MN",
+    "City": "Monticello",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/mont.html",
+        "powerName": "Monticello"
+      }
+    ]
+  },
+  {
+    "Site Name": "Nine Mile Point Nuclear Station",
+    "Latitude": "43.5204973",
+    "Longitude": "-76.409958",
+    "Site Code": "nmp",
+    "Pic File": "nmp",
+    "State": "NY",
+    "City": "Scriba",
+    "Region": "1",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/nmp1.html",
+        "powerName": "Nine Mile Point 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/nmp2.html",
+        "powerName": "Nine Mile Point 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "North Anna Power Station",
+    "Latitude": "38.0605602",
+    "Longitude": "-77.791638",
+    "Site Code": "na",
+    "Pic File": "na",
+    "State": "VA",
+    "City": "Mineral",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/na1.html",
+        "powerName": "North Anna 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/na2.html",
+        "powerName": "North Anna 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Oconee Nuclear Station",
+    "Latitude": "34.7933694",
+    "Longitude": "-82.895799",
+    "Site Code": "oco",
+    "Pic File": "oco",
+    "State": "SC",
+    "City": "Seneca",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/oco1.html",
+        "powerName": "Oconee 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/oco2.html",
+        "powerName": "Oconee 2"
+      },
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/oco3.html",
+        "powerName": "Oconee 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Palisades Nuclear Plant",
+    "Latitude": "42.4434011",
+    "Longitude": "-86.3167101",
+    "Site Code": "pali",
+    "Pic File": "pali",
+    "State": "MI",
+    "City": "Covert",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/pali.html",
+        "powerName": "Palisades"
+      }
+    ]
+  },
+  {
+    "Site Name": "Palo Verde Nuclear Generating Station",
+    "Latitude": "33.3868987",
+    "Longitude": "-112.8648286",
+    "Site Code": "palo",
+    "Pic File": "palo",
+    "State": "AZ",
+    "City": "Wintersburg",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/palo1.html",
+        "powerName": "Palo Verde 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/palo2.html",
+        "powerName": "Palo Verde 2"
+      },
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/palo3.html",
+        "powerName": "Palo Verde 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Peach Bottom Atomic Power Station",
+    "Latitude": "39.7592137",
+    "Longitude": "-76.2709882",
+    "Site Code": "pb",
+    "Pic File": "pb",
+    "State": "PA",
+    "City": "Delta",
+    "Region": "1",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/pb2.html",
+        "powerName": "Peach Bottom 2"
+      },
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/pb3.html",
+        "powerName": "Peach Bottom 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Perry Nuclear Power Plant",
+    "Latitude": "41.7961332",
+    "Longitude": "-81.1459416",
+    "Site Code": "perr",
+    "Pic File": "perr",
+    "State": "OH",
+    "City": "Perry",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/perr1.html",
+        "powerName": "Perry 1"
+      }
+    ]
+  },
+  {
+    "Site Name": "Point Beach Nuclear Plant",
+    "Latitude": "44.2809766",
+    "Longitude": "-87.5389391",
+    "Site Code": "poin",
+    "Pic File": "poin",
+    "State": "WI",
+    "City": "Two Rivers",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/poin1.html",
+        "powerName": "Point Beach 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/poin2.html",
+        "powerName": "Point Beach 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Prairie Island Nuclear Generating Plant",
+    "Latitude": "44.6216339",
+    "Longitude": "-92.635238",
+    "Site Code": "prai",
+    "Pic File": "prai",
+    "State": "MN",
+    "City": "Welch",
+    "Region": "3",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/prai1.html",
+        "powerName": "Prairie Island 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/prai2.html",
+        "powerName": "Prairie Island 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Quad Cities Nuclear Power Station",
+    "Latitude": "41.7259182",
+    "Longitude": "-90.310589",
+    "Site Code": "quad",
+    "Pic File": "quad",
+    "State": "IL",
+    "City": "Cordova",
+    "Region": "3",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/quad1.html",
+        "powerName": "Quad Cities 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/quad2.html",
+        "powerName": "Quad Cities 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "R.E. Ginna Nuclear Power Plant",
+    "Latitude": "43.2775725",
+    "Longitude": "-77.311558",
+    "Site Code": "ginn",
+    "Pic File": "ginn",
+    "State": "NY",
+    "City": "Ontario",
+    "Region": "1",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/ginn.html",
+        "powerName": "Ginna"
+      }
+    ]
+  },
+  {
+    "Site Name": "River Bend Station",
+    "Latitude": "30.7630053",
+    "Longitude": "-91.3397329",
+    "Site Code": "rbs",
+    "Pic File": "rbs",
+    "State": "LA",
+    "City": "St. Francisville",
+    "Region": "4",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/rbs1.html",
+        "powerName": "River Bend Station 1"
+      }
+    ]
+  },
+  {
+    "Site Name": "Salem Nuclear Generating Station",
+    "Latitude": "39.4630276",
+    "Longitude": "-75.5378077",
+    "Site Code": "salm",
+    "Pic File": "salm",
+    "State": "NJ",
+    "City": "Hancocks Bridge",
+    "Region": "1",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/salm1.html",
+        "powerName": "Salem 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/salm2.html",
+        "powerName": "Salem 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Seabrook Station",
+    "Latitude": "42.8988655",
+    "Longitude": "-70.855041",
+    "Site Code": "seab",
+    "Pic File": "seab",
+    "State": "NH",
+    "City": "Seabrook",
+    "Region": "1",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/seab1.html",
+        "powerName": "Seabrook 1"
+      }
+    ]
+  },
+  {
+    "Site Name": "Sequoyah Nuclear Plant",
+    "Latitude": "35.056525",
+    "Longitude": "-85.094122",
+    "Site Code": "seq",
+    "Pic File": "seq",
+    "State": "TN",
+    "City": "Soddy-Daisy",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/seq1.html",
+        "powerName": "Sequoyah 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/seq2.html",
+        "powerName": "Sequoyah 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Shearon Harris Nuclear Power Plant",
+    "Latitude": "35.6328762",
+    "Longitude": "-78.9564109",
+    "Site Code": "har",
+    "Pic File": "har",
+    "State": "NC",
+    "City": "New Hill",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/har1.html",
+        "powerName": "Harris 1"
+      }
+    ]
+  },
+  {
+    "Site Name": "South Texas Project",
+    "Latitude": "28.7966449",
+    "Longitude": "-96.0494349",
+    "Site Code": "stp",
+    "Pic File": "stp",
+    "State": "TX",
+    "City": "Bay City",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/stp1.html",
+        "powerName": "South Texas 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/stp2.html",
+        "powerName": "South Texas 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "St. Lucie Plant",
+    "Latitude": "27.3473023",
+    "Longitude": "-80.247107",
+    "Site Code": "stl",
+    "Pic File": "stl",
+    "State": "FL",
+    "City": "Jensen Beach",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/stl1.html",
+        "powerName": "Saint Lucie 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/stl2.html",
+        "powerName": "Saint Lucie 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Surry Power Station",
+    "Latitude": "37.1655877",
+    "Longitude": "-76.6999822",
+    "Site Code": "sur",
+    "Pic File": "sur",
+    "State": "VA",
+    "City": "Surry",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/sur1.html",
+        "powerName": "Surry 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/sur2.html",
+        "powerName": "Surry 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Susquehanna Steam Electric Station",
+    "Latitude": "41.0928448",
+    "Longitude": "-76.1495571",
+    "Site Code": "susq",
+    "Pic File": "susq",
+    "State": "PA",
+    "City": "Salem Township",
+    "Region": "1",
+    "Rx Type": "BWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/susq1.html",
+        "powerName": "Susquehanna 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/susq2.html",
+        "powerName": "Susquehanna 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Turkey Point Nuclear Generating Station",
+    "Latitude": "25.4352712",
+    "Longitude": "-80.3334546",
+    "Site Code": "tp",
+    "Pic File": "tp",
+    "State": "FL",
+    "City": "Homestead",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/tp3.html",
+        "powerName": "Turkey Point 3"
+      },
+      {
+        "unit": "4",
+        "link": "https://www.nrc.gov/info-finder/reactors/tp4.html",
+        "powerName": "Turkey Point 4"
+      }
+    ]
+  },
+  {
+    "Site Name": "Virgil C. Summer Nuclear Station",
+    "Latitude": "34.2965394",
+    "Longitude": "-81.3184779",
+    "Site Code": "sum",
+    "Pic File": "sum",
+    "State": "SC",
+    "City": "Jenkinsville",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/sum.html",
+        "powerName": "Summer"
+      }
+    ]
+  },
+  {
+    "Site Name": "Vogtle Electric Generating Plant",
+    "Latitude": "33.1409848",
+    "Longitude": "-81.7643245",
+    "Site Code": "vog",
+    "Pic File": "vog",
+    "State": "GA",
+    "City": "Waynesboro",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/vog1.html",
+        "powerName": "Vogtle 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/vog2.html",
+        "powerName": "Vogtle 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Waterford Steam Electric Station",
+    "Latitude": "29.9959931",
+    "Longitude": "-90.4736605",
+    "Site Code": "wat",
+    "Pic File": "wat",
+    "State": "LA",
+    "City": "Kilona",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "3",
+        "link": "https://www.nrc.gov/info-finder/reactors/wat3.html",
+        "powerName": "Waterford 3"
+      }
+    ]
+  },
+  {
+    "Site Name": "Watts Bar Nuclear Plant",
+    "Latitude": "35.7019959",
+    "Longitude": "-84.7911339",
+    "Site Code": "wb",
+    "Pic File": "wb",
+    "State": "TN",
+    "City": "Spring City",
+    "Region": "2",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/wb1.html",
+        "powerName": "Watts Bar 1"
+      },
+      {
+        "unit": "2",
+        "link": "https://www.nrc.gov/info-finder/reactors/wb2.html",
+        "powerName": "Watts Bar 2"
+      }
+    ]
+  },
+  {
+    "Site Name": "Wolf Creek Generating Station",
+    "Latitude": "38.2392884",
+    "Longitude": "-95.6916634",
+    "Site Code": "wc",
+    "Pic File": "wc",
+    "State": "KS",
+    "City": "Burlington",
+    "Region": "4",
+    "Rx Type": "PWR",
+    "Units": [
+      {
+        "unit": "1",
+        "link": "https://www.nrc.gov/info-finder/reactors/wc.html",
+        "powerName": "Wolf Creek 1"
+      }
+    ]
+  }
+]
